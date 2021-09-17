@@ -1,0 +1,7 @@
+batterymod:
+  attributes: 0x7
+  version:
+    major: 0x0
+    minor: 0x1
+  main:
+    start: module_start
